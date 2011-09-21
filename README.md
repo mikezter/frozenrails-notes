@@ -1,36 +1,25 @@
-Lightning Talk: Tuomas Kareinen 
-Test global state changing code with fork
-https://gist.github.com/1232111
+# Slides
 
-Joseph Ruscio 
-@josephruscio: Slides from my #frozenrails talk (REST and API's in Ruby): http://speakerdeck.com/u/josephruscio/p/implementing-a-restful-api-with-ruby
+## 20.09
 
-http://dl.dropbox.com/u/1579953/talks/modern_architecture.pdf
-@ryandotsmith Ryan Smith 
-Slide deck (with notes) from #frozenrails talk. Thanks to all who attended
+* Geoffrey Grosenbach([@topfunky](https://twitter.com/#!/topfunky)): [Keynote]()
+* Jeff Casimir([@j3](https://twitter.com/#!/j3)): [The Problem is your Ruby]()
+* Joseph Wilk([@josephwilk](https://twitter.com/#!/josephwilk)): [Limited Red](http://www.slideshare.net/mobile/josephwilk/frozenrails2011)
+* Nick Sieger([@nicksieger](https://twitter.com/#!/nicksieger)): [From Java to Rails]()
+* Jeff Casimir([@j3](https://twitter.com/#!/j3)): [Blow up your views]()
+* Josh Kaldermis([@joshkalderimis](https://twitter.com/#!/joshkalderimis)) and Sven Fuchs([@svenfuchs](https://twitter.com/#!/svenfuchs)): [Travis CI]()
+* Jarkko Laine([@jarkko](https://twitter.com/#!/jarkko)): [Full Frontal for the Backend Pack]()
 
+## 21.09.
 
-holman Zach Holman 
-My #frozenrails talk in Helsinki: How GitHub Uses GitHub to Build GitHub. 
-http://zachholman.com/talk/how-github-uses-github-to-build-github
+* Richard White([@rrwhite](https://twitter.com/#!/rrwhite)): [Keynote]()
+* Zach Holman([@holman](https://twitter.com/#!/holman)): [How Github uses Github to build Github](http://zachholman.com/talk/how-github-uses-github-to-build-github)
+* Elise Huard([@elise\_huard](https://twitter.com/#!/elise_huard)): [Ruby goes Hollywood]()
+* Ryan Smith([@ryandotsmith](https://twitter.com/#!/ryandotsmith)): [Modern Architecture](http://dl.dropbox.com/u/1579953/talks/modern_architecture.pdf)
+* Joseph Ruscio([@josephruscio](https://twitter.com/#!/josephruscio)): [Implementing a RESTful API with Ruby the Right Way](http://speakerdeck.com/u/josephruscio/p/implementing-a-restful-api-with-ruby)
+* Aman Gupta([@tmm1](https://twitter.com/#!/tmm1)): [Debugging Ruby Performance](http://speakerdeck.com/u/tmm1/p/debugging-ruby-performance)
+* Tuomas Kareinen: [Test global state changing code with fork](https://gist.github.com/1232111)
 
+# Photos
 
-
-@pipopolam
-Maxim Filatov
-#FrozenRails 2011 #photos from day 2, part 1: bit.ly/rrCLdz /cc @frozenrails
-
-
-Joseph Wilk
-Slides from my talk at #frozenrails about Limited Red. Includes ogres and santa claus... Obviously.
-http://www.slideshare.net/josephwilk/frozenrails2011
-
-@pipopolam
-Maxim Filatov
-#FrozenRails 2011 #photos day 1 part 1: http://t.co/abc0qWpm
-
-@j3 Jeff Casimir 
-My notes on measuring performance of Ruby/Rails apps, inc Perftools.rb on its own and as a Rack middleware /cc @tmm1 gist.github.com/1232030
-
-
-
+* Maxim Filatov [@pipopolam](https://twitter.com/#!/pipopolam): [Part1](http://t.co/abc0qWpm) and [Part2](http://bit.ly/rrCLdz)
